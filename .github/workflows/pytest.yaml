@@ -20,4 +20,4 @@ jobs:
     - name: Pytest summary
       uses: dariocurr/pytest-summary@v2
       with:
-        paths: my_code.py
+        paths: fix-phone-num.py
